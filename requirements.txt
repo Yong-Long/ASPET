@@ -1,0 +1,9 @@
+matplotlib>=3.6
+numpy>=1.23
+Pillow>=9.2
+pyparsing>=3.0
+PyQt5>=5.15
+PyQt5-Qt5>=5.15
+PyQt5-sip>=12.11
+scipy>=1.9
+six>=1.16

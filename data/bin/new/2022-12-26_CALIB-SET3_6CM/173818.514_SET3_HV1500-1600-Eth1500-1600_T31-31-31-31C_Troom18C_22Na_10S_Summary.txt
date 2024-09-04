@@ -1,0 +1,352 @@
+gID	sID	Rate(kHz)
+0	0	54.9458
+0	1	102.656
+0	2	45.8272
+0	3	89.5643
+1	0	109.588
+1	1	55.3061
+1	2	93.7423
+1	3	50.6516
+2	0	38.9222
+2	1	98.909
+2	2	45.703
+2	3	83.1522
+3	0	79.3977
+3	1	43.8616
+3	2	81.6465
+3	3	50.4525
+Total Data events=11243257
+Total analyzed events0	Total good events analyzed=7886141
+Percentage of good events=70.1411
+Percentage of events analyzed to total collected=0.889422
+Total coincidences analyzed=0
+Total coincidence loops@100000 ev per loop:	0
+Time DAQ=10s
+RATE Coincidences estimated=0
+RATE DAQ estimated=1124.33kHz
+The End
+
+% Channels above breakdown:
+G0S0	96.875
+G0S1	96.875
+G0S2	93.75
+G0S3	96.875
+G1S0	96.875
+G1S1	92.1875
+G1S2	95.3125
+G1S3	96.875
+G2S0	90.625
+G2S1	0
+G2S2	95.3125
+G2S3	93.75
+G3S0	95.3125
+G3S1	96.875
+G3S2	98.4375
+G3S3	98.4375
+
+Noiseflags:
+G0S0
+Ch17noisy
+Ch37noisy
+Ch50noisy
+Ch53noisy
+Ch56noisy
+Ch58noisy
+
+
+G0S1
+Ch0noisy
+Ch2noisy
+Ch7noisy
+Ch8noisy
+Ch12noisy
+Ch14noisy
+Ch15noisy
+Ch17noisy
+Ch21noisy
+Ch25noisy
+Ch26noisy
+Ch27noisy
+Ch33noisy
+Ch36noisy
+Ch40noisy
+Ch44noisy
+Ch45noisy
+Ch51noisy
+Ch53noisy
+Ch54noisy
+Ch60noisy
+
+
+G0S2
+Ch8noisy
+Ch14noisy
+Ch32noisy
+Ch36noisy
+Ch37noisy
+Ch50noisy
+Ch52noisy
+Ch59noisy
+Ch60noisy
+Ch61noisy
+
+
+G0S3
+Ch0noisy
+Ch3noisy
+Ch5noisy
+Ch6noisy
+Ch7noisy
+Ch8noisy
+Ch9noisy
+Ch16noisy
+Ch21noisy
+Ch22noisy
+Ch27noisy
+Ch32noisy
+Ch36noisy
+Ch42noisy
+Ch46noisy
+Ch48noisy
+Ch52noisy
+Ch53noisy
+Ch59noisy
+Ch60noisy
+Ch62noisy
+Ch63noisy
+
+
+G1S0
+Ch6noisy
+Ch25noisy
+Ch28noisy
+Ch34noisy
+Ch40noisy
+Ch42noisy
+Ch54noisy
+Ch59noisy
+
+
+G1S1
+Ch0noisy
+Ch1noisy
+Ch2noisy
+Ch4noisy
+Ch5clip
+Ch6noisy
+Ch19noisy
+Ch23noisy
+Ch29noisy
+Ch33noisy
+Ch35noisy
+Ch36noisy
+Ch39noisy
+Ch46noisy
+Ch52noisy
+Ch54noisy
+Ch57noisy
+
+
+G1S2
+Ch0noisy
+Ch1noisy
+Ch2noisy
+Ch3noisy
+Ch4noisy
+Ch5noisy
+Ch6noisy
+Ch8noisy
+Ch9noisy
+Ch12noisy
+Ch18noisy
+Ch20noisy
+Ch24noisy
+Ch27noisy
+Ch29noisy
+Ch34noisy
+Ch37noisy
+Ch41noisy
+Ch44noisy
+Ch49noisy
+Ch52noisy
+Ch53noisy
+Ch55noisy
+Ch56noisy
+Ch57noisy
+Ch58noisy
+Ch62noisy
+Ch63noisy
+
+
+G1S3
+Ch0noisy
+Ch2noisy
+Ch3noisy
+Ch8noisy
+Ch15noisy
+Ch23noisy
+Ch25noisy
+Ch28noisy
+Ch35noisy
+Ch37noisy
+Ch38noisy
+
+
+G2S0
+Ch5noisy
+Ch6noisy
+Ch18noisy
+Ch19noisy
+Ch21noisy
+Ch22noisy
+Ch23noisy
+Ch27noisy
+Ch30noisy
+Ch31noisy
+Ch45noisy
+Ch46noisy
+Ch48noisy
+Ch52noisy
+Ch54noisy
+Ch55noisy
+Ch56noisy
+Ch59noisy
+Ch63noisy
+
+
+G2S1
+Ch4noisy
+Ch6noisy
+Ch7noisy
+Ch10noisy
+Ch11noisy
+Ch15noisy
+Ch18noisy
+Ch19noisy
+Ch20noisy
+Ch22noisy
+Ch24noisy
+Ch26noisy
+Ch29noisy
+Ch38noisy
+Ch41noisy
+Ch48noisy
+Ch49noisy
+Ch51noisy
+Ch57noisy
+Ch58noisy
+Ch60noisy
+Ch61noisy
+Ch63noisy
+
+
+G2S2
+Ch1noisy
+Ch25noisy
+Ch28noisy
+Ch35noisy
+Ch38noisy
+Ch46noisy
+Ch49noisy
+Ch52noisy
+Ch58noisy
+
+
+G2S3
+Ch0noisy
+Ch1noisy
+Ch8noisy
+Ch9noisy
+Ch23noisy
+Ch28noisy
+Ch32noisy
+Ch48noisy
+Ch53noisy
+Ch62clip
+
+
+G3S0
+Ch0noisy
+Ch7noisy
+Ch8noisy
+Ch11noisy
+Ch12noisy
+Ch16noisy
+Ch17noisy
+Ch18noisy
+Ch19noisy
+Ch24noisy
+Ch26noisy
+Ch29noisy
+Ch30noisy
+Ch38noisy
+Ch41noisy
+Ch43noisy
+Ch45noisy
+Ch46noisy
+Ch47noisy
+Ch48noisy
+Ch50noisy
+Ch55noisy
+Ch58noisy
+Ch59noisy
+
+
+G3S1
+Ch7noisy
+Ch15noisy
+Ch22noisy
+Ch29noisy
+Ch32noisy
+Ch33noisy
+Ch34noisy
+Ch36noisy
+Ch38noisy
+Ch41noisy
+Ch42noisy
+Ch44noisy
+Ch46noisy
+Ch47noisy
+Ch48noisy
+Ch53noisy
+Ch59noisy
+Ch62noisy
+
+
+G3S2
+Ch0noisy
+Ch11noisy
+Ch12noisy
+Ch24noisy
+Ch36noisy
+Ch39noisy
+Ch40noisy
+Ch46noisy
+Ch56noisy
+Ch61noisy
+
+
+G3S3
+Ch0noisy
+Ch9noisy
+Ch10noisy
+Ch15noisy
+Ch17noisy
+Ch18noisy
+Ch19noisy
+Ch22noisy
+Ch23noisy
+Ch24noisy
+Ch26noisy
+Ch27noisy
+Ch30noisy
+Ch31noisy
+Ch33noisy
+Ch35noisy
+Ch39noisy
+Ch40noisy
+Ch41noisy
+Ch44noisy
+Ch58noisy
+
+

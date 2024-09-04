@@ -1,0 +1,1 @@
+eventID	gmslID	sticID	frame	channel	energy	tcoarse	time	RSTEventcc[gmslID]	RSTEventff[gmslID]
